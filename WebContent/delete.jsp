@@ -16,7 +16,7 @@
 		<label for="txtIdProduct">Id Product:</label>
 		<input class="form-control" type="text" id="txtIdProduct" name="txtIdProduct">
 		</p>
-		<input class="btn btn-primary" type="submit" value="Search Product">
+		<input class="btn btn-primary" type="submit" value="Delete Product">
 	</form>
 	
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
